@@ -1,0 +1,19 @@
+{
+  "name": "dangerbot",
+  "version": "0.0.0-alpha",
+  "description": "🤖 Danger, Will Robinson",
+  "keywords": [
+  	"🤖",
+  	"🚨"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omrilotan/dangerbot.git"
+  },
+  "author": "omrilotan",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "index.js"
+}
